@@ -22,13 +22,14 @@ Key properties:
 
 ## Supplementary material
 
-[`main.pdf`](main.pdf) and [`supplementary.pdf`](supplementary.pdf) accompany
-the paper. The supplement collects the material that does not fit in the main
-text: dataset characteristics, the **complete per-dataset ROC–AUC and AUPRC
-tables** (48 datasets × 23 methods, mean ± std with ranks), per-scale
-critical-difference diagrams on both metrics, the per-dataset robustness
-ablations (normalization, contamination), the complexity/scalability profile,
-and the LFI faithfulness study.
+[`supplementary.pdf`](supplementary.pdf) accompanies the paper. It collects
+the material that does not fit in the main text: dataset characteristics, the
+**complete per-dataset ROC–AUC and AUPRC tables** (48 datasets × 23 methods,
+mean ± std with ranks), per-scale critical-difference diagrams on both
+metrics, the per-dataset robustness ablations (normalization, contamination,
+τ sensitivity, active-coordinate threshold, inference clamping, LFI seed
+stability, per-layer spectral norms), the complexity/scalability profile, and
+the LFI faithfulness study.
 
 ## Install
 
